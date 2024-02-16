@@ -147,9 +147,79 @@ padding: 16px 32px;
 width: 167px;
 height: 56px;
 background: #f00;
-font-weight: 500;
-font-size: 20px;
+
+font-size: 10px;
 text-transform: uppercase;
 text-align: center;
 color: #fff;
+}
+
+/* fourth style End */
+
+
+/* Fifth Banner Style Start  */
+
+.Fifth-banner{
+    display: flex;
+     margin-left: 120px;
+     border: #fff;
+     margin-top: 100px;
+}
+
+.fith-banner-middel-side{
+    margin-left: 100px;
+}
+
+.fith-banner-right{
+    margin-left: 100px;
+}
+
+.title-fifth{
+font-weight: 500;
+font-size: 24px;
+text-align: center;
+color: #f00;
+}
+
+.title-fifth-sub{
+
+    font-weight: 900;
+    font-size: 48px;
+    text-transform: capitalize;
+    color: #070211;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.fifth-banner-discription{
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 160%;
+    color: rgba(7, 2, 17, 0.6);
+   
+    margin-left: 170px;
+}
+
+.fith-banner-middel-side{
+    border-radius: 100%;
+stroke-width: 15px;
+stroke: #f00;
+
+}
+
+.year{
+font-weight: 700;
+font-size: 48px;
+color: #f00;
+}
+
+.year-discrpition{
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+color: rgba(7, 2, 17, 0.6);
+}
+.right-img{
+    width: 140px;
+height: 140px;
 }
