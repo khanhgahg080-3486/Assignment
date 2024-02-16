@@ -1,0 +1,69 @@
+/* This one all font style for all body */
+.body{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+/* Finish font style for body */
+
+
+/* This style for first banner  */
+.first-baner-title{
+text-align: center;
+padding-top: 170px;
+font-weight: 350px;
+font-size: 40px;
+color: #fff;
+
+}
+.firs-baner-discription{
+text-align: center;
+font-weight: 00px;
+font-size: 70px;
+margin-top: -10px;
+color: #fff;
+}
+.first-banner{
+background-image:url(/Rectangle\ 15.png), url(/Rectangle\ 14.png);
+background-repeat: no-repeat;
+border-radius: 16px;
+width: 1320px;
+height: 600px;
+margin-left: 80px;
+margin-left: 300px;
+
+}
+/* First  style Baner End  */
+
+/* Second Banner Style Start */
+.second-banner{
+    text-align: center;
+}
+.second-banner-off{
+font-weight: 700px;
+font-size: 70px;
+color: #f00;
+}
+.holiday-deals{
+font-weight: 500;
+font-size: 24px;
+color: #f00;
+}
+.catagory{
+font-weight: 700;
+font-size: 48px;
+color: #070211;
+}
+.second-banner-imag{
+    width: 803px;
+    height: 500px;
+}
+
+/* Secound  Banner Style End */
+
+/* Third banner style start  */
+
