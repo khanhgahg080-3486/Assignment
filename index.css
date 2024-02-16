@@ -223,3 +223,64 @@ color: rgba(7, 2, 17, 0.6);
     width: 140px;
 height: 140px;
 }
+/* Fifth banner style end */
+
+/* Six banner style Start */
+.banner-number-six{
+    background-color: white;
+    width: 1320px;
+height: 948px;
+margin-left: 300px;
+}
+
+.six-banner-first{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.title-six-banner{
+font-weight: 700;
+font-size: 24px;
+color: #070211;
+}
+
+.title-discription{
+    font-family: var(--second-family);
+font-weight: 900;
+font-size: 72px;
+color: #070211;
+}
+.title-discription-unique{
+    color: #f00;
+}
+
+.title-discription-discription{
+font-weight: 500;
+font-size: 20px;
+line-height: 160%;
+color: rgba(7, 2, 17, 0.6);
+}
+
+.six-title-secound{
+    display: flex;
+    background-image: url(./B9A1-New-Year-New-Mission-main/./B9A1-New-Year-New-Mission-main/./resources/Rectangle\ 1.png), url(./B9A1-New-Year-New-Mission-main/./B9A1-New-Year-New-Mission-main/./resources/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+  
+   
+
+
+}
+.img-for-box{
+    width: 673px;
+    height: 639px;
+}
+
+.img-for-discount{
+    width: 220px;
+height: 220px;
+margin-top: 200px;
+margin-left: 100px;
+
+}
+/* Six Number Style End */
