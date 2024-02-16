@@ -28,7 +28,7 @@ margin-top: -10px;
 color: #fff;
 }
 .first-banner{
-background-image:url(./Rectangle\ 15.png), url(/Rectangle\ 14.png);
+background-image:url(./Rectangle\ 15.png), url(./Rectangle\ 14.png);
 background-repeat: no-repeat;
 border-radius: 16px;
 width: 1320px;
@@ -67,7 +67,7 @@ color: #070211;
 
 /* Third banner style start  */
 .third-banner{
-background-image:url(/Vector.png),url(/B9A1-New-Year-New-Mission-main/B9A1-New-Year-New-Mission-main/resources/Vectorrr.png);
+background-image:url(./Vector.png),url(./B9A1-New-Year-New-Mission-main/./B9A1-New-Year-New-Mission-main/./resources/Vectorrr.png);
 background-repeat: no-repeat;
 width: 1320px;
   height: 600px;
@@ -76,5 +76,7 @@ width: 1320px;
 }
 
 .third-banner-img{
+   width: 320px;
+   height: 460px;
    
 }
