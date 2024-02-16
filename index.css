@@ -284,3 +284,41 @@ margin-left: 100px;
 
 }
 /* Six Number Style End */
+
+/* Seven Number Style Start */
+.Seven-Number-Section{
+    width: 1320px;
+    height: 1163px;
+    margin-top: 300px;
+    margin-left: 300px;
+}
+.titlenumber-seven{
+font-weight: 500;
+font-size: 24px;
+color: #f00;
+}
+
+.seven-number-title-discription{
+font-weight: 900;
+font-size: 48px;
+text-transform: capitalize;
+color: #070211;
+}
+
+.seven-Number-discription-prgraph{
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+color: rgba(7, 2, 17, 0.6);
+}
+
+.seven-number-secound-part{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.seven-one{
+    border-radius: 16px;
+width: 424px;
+height: 450px;
+margin-left: 10px;
+}
