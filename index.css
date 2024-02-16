@@ -28,7 +28,8 @@ margin-top: -10px;
 color: #fff;
 }
 .first-banner{
-background-image:url(./Rectangle\ 15.png), url(./Rectangle\ 14.png);
+background-image:url(./Rectangle\ 15.png),url(./Rectangle\ 14.png);
+
 background-repeat: no-repeat;
 border-radius: 16px;
 width: 1320px;
@@ -47,6 +48,7 @@ margin-left: 300px;
 font-weight: 700px;
 font-size: 70px;
 color: #f00;
+margin-top: 100px;
 }
 .holiday-deals{
 font-weight: 500;
@@ -65,18 +67,89 @@ color: #070211;
 
 /* Secound  Banner Style End */
 
+
+
 /* Third banner style start  */
+
 .third-banner{
-background-image:url(./Vector.png),url(./B9A1-New-Year-New-Mission-main/./B9A1-New-Year-New-Mission-main/./resources/Vectorrr.png);
-background-repeat: no-repeat;
-width: 1320px;
-  height: 600px;
-  margin-left: 80px;
-  margin-left: 300px;
+    display: flex;
+    background-image:url(./Vector.png),url(./B9A1-New-Year-New-Mission-main/./B9A1-New-Year-New-Mission-main/./resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin-left: 300px;
+    margin-top: 100px;
+    padding-top: 5px;
+
+
 }
 
+
+.third-banner-title{
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 137%;
+    letter-spacing: 0.11em;
+    color: #fff;
+    margin-left:150px;
+} 
+.third-banner-description{
+font-weight: 400;
+font-size: 18px;
+line-height: 167%; 
+ color: rgba(255, 255, 255, 0.8);
+ margin-left: 150px;
+}
+.third-banner-join{
+font-weight: 700;
+font-size: 20px;
+text-transform: uppercase;
+color: #fff; 
+margin-left: 150px; 
+} 
+
 .third-banner-img{
-   width: 320px;
-   height: 460px;
-   
+    margin-left: 150px;
+    width: 319px;
+height: 464px;
+margin-top: 40px;
+}
+
+
+/* Thired baner end  */
+
+/* Foruth Banner Style Start  */
+.Fourthbanner{
+    text-align: center;
+    margin-top: 100px;
+    background-image: url(./background.png);
+    border-radius: 16px;
+    width: 1300px;
+    height: 482px;
+    margin-left: 300px;
+}
+.Fourth-banner-description{
+font-weight: 600;
+font-size: 32px;
+line-height: 175%;
+text-transform: capitalize;
+text-align: center;
+color: #070211;
+padding-top: 100px;
+margin-bottom: 50px;
+}
+.forth-banner-latter{
+    color: #f00;
+}
+.button-primary{
+    border-radius: 8px;
+padding: 16px 32px;
+width: 167px;
+height: 56px;
+background: #f00;
+font-weight: 500;
+font-size: 20px;
+text-transform: uppercase;
+text-align: center;
+color: #fff;
 }
