@@ -354,17 +354,31 @@ line-height: 160%;
 
 color: rgba(7, 2, 17, 0.6);
 }
-.forspace{
+.button-pr{
+    border-radius: 50px;
     width: 648px;
-height: 72px;
-border-radius: 50px;
-background: #fff;
-font-family: var(--font-family);
-font-weight: 600;
-font-size: 20px;
-text-transform: capitalize;
+    height: 72px;
+font-weight: 400px;
+font-size: 18px;
 text-align: center;
+color: rgba(7, 2, 17, 0.3);
+}
+.sub-button{
 
+    font-weight: 600px;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-align: center;
+    color: #fff;
+    background-color: red;
+
+}
+.subscribe{
+    margin-left: 300px;
+    margin-top:50px;
+    border-radius: 50px;
+     width: 648px;
+    height: 72px;
 }
 
 /* Section End */
@@ -396,16 +410,14 @@ color: #fff;
     
     margin-right: 100px;
     margin-top: 100px;
-    justify-content:space-between
+   
 }
 .fotter-first-part{
     display: flex;
     justify-content: space-between;
 }
-.phone{
-    stroke-width: 1.50px;
-stroke: #fff;
-}
+
+
 .web-addres{
     font-weight: 500;
     font-size: 24px;
